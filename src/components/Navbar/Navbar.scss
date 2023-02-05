@@ -13,14 +13,15 @@
   z-index: 2;
 }
 
+
 .app__navbar-logo {
   display: flex;
   justify-content: flex-start;
   align-items: center;
 
   img {
-    width: 90px;
-    height: 20px;
+    width: 100px;
+    height: 40px;
 
     @media screen and (min-width: 2000px) {
       width: 180px;
