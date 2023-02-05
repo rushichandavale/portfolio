@@ -34,7 +34,7 @@ import bolt from '../assets/bolt.png';
 import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
-import ytc from '../assets/ytc.png'
+import ytc from '../assets/ytc.gif'
 import nextjs from '../assets/nextjs.png'
 import reactnative from '../assets/react-native.jpg'
 import tailwind from '../assets/tailwind.png'
@@ -43,10 +43,14 @@ import twitter from '../assets/twitter.png'
 import linkedin from '../assets/linkedln.png'
 import github from '../assets/github.png'
 import snakegame from '../assets/snake-game.gif'
+import restaurant from '../assets/restaurant.gif'
+import ecommerce from '../assets/e-commerce.gif'
 
 
 const images = {
   firebase,
+  ecommerce,
+  restaurant,
   snakegame,
   github,
   twitter,
