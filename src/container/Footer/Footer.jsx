@@ -45,11 +45,12 @@ const Footer = () => {
             GitHub
           </a>
         </div>
-
-        
-
-
       </div>
+
+      
+        <h1 className="bold-text" style={{marginTop:'5rem'}}>Designed with ❤️
+by <a href="https://www.linkedin.com/in/rushikesh-chandavale-9417931a9/">Rushi Chandavale</a></h1>
+      
     </>
   );
 };
