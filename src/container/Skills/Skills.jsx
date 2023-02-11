@@ -22,60 +22,52 @@ const Skills = () => {
       bgColor: "#edf2f8",
     },
     {
+      name: "Tailwind CSS",
+      icon: images.tailwind,
+      bgColor: "#edf2f8",
+    },
+    {
+      name: "Bootstrap",
+      icon: images.bootstrap,
+      bgColor: "#edf2f8",
+    },
+    {
       name: "JavaScript",
       icon: images.javascript,
       bgColor: "#edf2f8",
     },
-   //  {
-   //    name: "TypeScript",
-   //    icon: images.typescript,
-   //    bgColor: "#313bac",
-   //  },
     {
       name: "Reactjs",
       icon: images.react,
       bgColor: "#edf2f8",
     },
     {
-      name: "React-native",
-      icon: images.reactnative,
+      name: "Nodejs",
+      icon: images.node,
       bgColor: "#edf2f8",
     },
+    {
+      name: "Expressjs",
+      icon: images.expressjs,
+      bgColor: "#edf2f8",
+    },
+    {
+      name: "MongoDB",
+      icon: images.mongodb,
+      bgColor: "#edf2f8",
+    },
+    
     {
       name: "Redux",
       icon: images.redux,
       bgColor: "#edf2f8",
     },
-    {
-      name: "Nextjs",
-      icon: images.nextjs,
-      bgColor: "#edf2f8",
-    },
-    {
-      name: "Tailwind CSS",
-      icon: images.tailwind,
-      bgColor: "#edf2f8",
-    },
+    
     {
       name: "Firebase",
       icon: images.firebase,
       bgColor: "#edf2f8",
     },
-   //  {
-   //    name: "Java",
-   //    icon: images.java,
-   //    bgColor: "#edf2f8",
-   //  },
-    {
-      name: "C++",
-      icon: images.cpp,
-      bgColor: "#edf2f8",
-    },
-   //  {
-   //    name: "Technical Writer",
-   //    icon: images.writer,
-   //    bgColor: "#46364a",
-   //  },
   ];
   return (
     <>

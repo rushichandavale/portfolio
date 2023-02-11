@@ -45,10 +45,16 @@ import github from '../assets/github.png'
 import snakegame from '../assets/snake-game.gif'
 import restaurant from '../assets/restaurant.gif'
 import ecommerce from '../assets/e-commerce.gif'
+import bootstrap from '../assets/download.jpeg'
+import expressjs from '../assets/express.png'
+import mongodb from '../assets/mongodb.png'
 
 
 const images = {
   firebase,
+  mongodb,
+  expressjs,
+  bootstrap,
   ecommerce,
   restaurant,
   snakegame,
