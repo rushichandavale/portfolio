@@ -33,12 +33,12 @@ const works = [
       imageUrl: images.ecommerce,
       
    },
-   // {
-   //    title: " Youtube Clone",
-   //    description: "A React App with a modern UI",
-   //    codeLink:"https://github.com/rushichandavale/youtube_clone_react",
-   //    projectLink: "https://heartan-ytc.netlify.app/",
-   //    imageUrl: images.ytc,
+    {
+       title: "Calculator",
+       description: "A React App with a modern UI",
+       codeLink:"https://github.com/rushichandavale/react-calculator",
+       projectLink: "https://heartan-react-calculator.netlify.app/",
+       imageUrl: images.ytc,
       
    // },
    
