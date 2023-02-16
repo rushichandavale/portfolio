@@ -38,7 +38,7 @@ const works = [
        description: "A React App with a modern UI",
        codeLink:"https://github.com/rushichandavale/react-calculator",
        projectLink: "https://heartan-react-calculator.netlify.app/",
-       imageUrl: images.ytc,
+       imageUrl: images.calculator,
       
    // },
    
