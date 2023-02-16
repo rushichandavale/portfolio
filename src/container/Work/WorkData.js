@@ -40,7 +40,7 @@ const works = [
        projectLink: "https://heartan-react-calculator.netlify.app/",
        imageUrl: images.calculator,
       
-   // },
+    },
    
 ];
 
