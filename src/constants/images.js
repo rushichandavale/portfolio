@@ -48,10 +48,11 @@ import ecommerce from '../assets/e-commerce.gif'
 import bootstrap from '../assets/download.jpeg'
 import expressjs from '../assets/express.png'
 import mongodb from '../assets/mongodb.png'
-
+import calculator from '../assets/calculator.png'
 
 const images = {
   firebase,
+  calculator,
   mongodb,
   expressjs,
   bootstrap,
